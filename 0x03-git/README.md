@@ -1,1 +1,1 @@
-README FIRST
+Git is really interesting
